@@ -26,19 +26,19 @@ Use the file's own name if it isn't `Main.java`. Each folder's `expected.txt` sh
 
 | # | Topic | Video |
 |---|---|---|
-| 3 | [What Happens When You Run Java Code?](shorts/003-from-java-to-your-cpu) | [Watch](https://youtube.com/shorts/TTianTdMNdA?feature=share) |
-| 4 | [Hello World in Java Explained (Why 5 Lines?)](shorts/004-hello-world-line-by-line) | [Watch](https://youtube.com/shorts/TTianTdMNdA?feature=share) |
-| 5 | [public static void main Explained (+ Java 25)](shorts/005-why-public-static-void-main) | [Watch](https://youtube.com/shorts/Dak3dcFIzeM?feature=share) |
-| 6 | [Java Variables Explained With Boxes](shorts/006-variables-are-boxes) | [Watch](https://youtube.com/shorts/eFc6_goiHtY?feature=share) |
-| 7 | [All 8 Java Primitive Types in 40 Seconds](shorts/007-the-8-primitive-types) | [Watch](https://youtube.com/shorts/pJ9zKIVDcJA?feature=share) |
-| 8 | [Java Integer Overflow (Why MAX + 1 Is Negative)](shorts/008-integer-overflow) | Soon |
-| 9 | [Why 'A' + 1 = 66 in Java](shorts/009-char-is-a-number) | Soon |
-| 10 | [Type Casting in Java (Why 9.99 Becomes 9)](shorts/010-type-casting) | Soon |
-| 11 | [The % Operator in Java Isn't Percent](shorts/011-arithmetic-and) | Soon |
-| 12 | [Why 5 / 2 = 2 in Java](shorts/012-why-5-2-2-in-java) | Soon |
-| 13 | [i++ vs ++i in Java (The Difference)](shorts/013-i-vs-i) | Soon |
-| 14 | [What a String Really Is in Java](shorts/014-strings-basics) | Soon |
-| 15 | [Why You Can Never Change a Java String](shorts/015-strings-never-change) | Soon |
+| 3 | [What Happens When You Run Java Code?](shorts/003-from-java-to-your-cpu) | [Watch](https://youtube.com/shorts/WF7tkqWih7k) |
+| 4 | [Hello World in Java Explained (Why 5 Lines?)](shorts/004-hello-world-line-by-line) | [Watch](https://youtube.com/shorts/TTianTdMNdA) |
+| 5 | [public static void main Explained (+ Java 25)](shorts/005-why-public-static-void-main) | [Watch](https://youtube.com/shorts/Dak3dcFIzeM) |
+| 6 | [Java Variables Explained With Boxes](shorts/006-variables-are-boxes) | [Watch](https://youtube.com/shorts/eFc6_goiHtY) |
+| 7 | [All 8 Java Primitive Types in 40 Seconds](shorts/007-the-8-primitive-types) | [Watch](https://youtube.com/shorts/pJ9zKIVDcJA) |
+| 8 | [Java Integer Overflow (Why MAX + 1 Is Negative)](shorts/008-integer-overflow) | [Watch](https://youtube.com/shorts/ikbxJHlhGC8) |
+| 9 | [Why 'A' + 1 = 66 in Java](shorts/009-char-is-a-number) | [Watch](https://youtube.com/shorts/CkG-1EiUzS0) |
+| 10 | [Type Casting in Java (Why 9.99 Becomes 9)](shorts/010-type-casting) | [Watch](https://youtube.com/shorts/-3kY3StI5BM) |
+| 11 | [The % Operator in Java Isn't Percent](shorts/011-arithmetic-and) | [Watch](https://youtube.com/shorts/FrxOjViJX3Q) |
+| 12 | [Why 5 / 2 = 2 in Java](shorts/012-why-5-2-2-in-java) | [Watch](https://youtube.com/shorts/gx0lkGs5RUw) |
+| 13 | [i++ vs ++i in Java (The Difference)](shorts/013-i-vs-i) | [Watch](https://youtube.com/shorts/DGJqHyP0OIU) |
+| 14 | [What a String Really Is in Java](shorts/014-strings-basics) | [Watch](https://youtube.com/shorts/RR61hZsCyJI) |
+| 15 | [Why You Can Never Change a Java String](shorts/015-strings-never-change) | [Watch](https://youtube.com/shorts/-mO2c4z9eBQ) |
 | 16 | [The Java String Pool Explained](shorts/016-the-string-pool) | Soon |
 | 17 | [== vs .equals() in Java (#1 Beginner Bug)](shorts/017-vs-equals) | Soon |
 | 18 | [Read User Input in Java with Scanner](shorts/018-reading-user-input) | Soon |
