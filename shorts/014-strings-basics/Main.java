@@ -1,0 +1,8 @@
+public class Main {
+    public static void main(String[] args) {
+        String name = "Java";
+        System.out.println(name.length());
+        System.out.println(name.charAt(0));
+        System.out.println(name + " rocks");
+    }
+}

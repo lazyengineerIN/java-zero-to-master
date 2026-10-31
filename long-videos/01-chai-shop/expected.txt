@@ -1,0 +1,29 @@
+Welcome to Raju's Chai!
+-2147483648
+77
+12
+3 boxes, 2 left
+2 vs 2.5
+4 A
+false
+true
+Full price
+Ginger
+Busy
+Serving 3
+Serving 2
+Serving 1
+Item 1
+Item 2
+Item 3
+1 Bill  0 Close
+Chai 1
+Chai 3
+15 20 25 
+25 30 35 
+35 40 45 
+10 3
+Thanks, Asha
+Thanks, Ravi
+Thanks, Sam
+[20, 40, 75]
