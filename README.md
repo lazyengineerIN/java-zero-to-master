@@ -20,7 +20,7 @@ Use the file's own name if it isn't `Main.java`. Each folder's `expected.txt` sh
 | Video | Code | Covers |
 |---|---|---|
 | Learn Java by Building a Chai Shop App | [ChaiShop.java](long-videos/01-chai-shop/ChaiShop.java) | Topics #1 to #30 |
-| Raju's Order App | [RajuOrders.java](long-videos/02-raju-order-app/RajuOrders.java) | Topics #31 to #53. Video coming soon |
+| Learn Java OOP: Build a Real Order App | [RajuOrders.java](long-videos/02-raju-order-app/RajuOrders.java) | Topics #31 to #54. Video coming soon |
 
 ## Shorts
 

@@ -124,6 +124,15 @@ public class RajuOrders {
         return 6 + cupsInCrates(crates - 1);
     }
 
+    // 8. When things fail
+    static int cupsEach(int cups, int people) {
+        return cups / people;
+    }
+
+    static void splitOrder(int cups, int people) {
+        System.out.println("Each gets: " + cupsEach(cups, people));
+    }
+
     public static void main(String[] args) {
         System.out.println(billTotal(2, 15.0));
         System.out.println(billTotal(2, 15.0, 5.0));
@@ -159,5 +168,12 @@ public class RajuOrders {
         }
 
         System.out.println("Orders today: " + Order.count());
+
+        splitOrder(4, 2);
+        try {
+            splitOrder(4, 0);
+        } catch (ArithmeticException e) {
+            System.out.println("Caught: " + e.getMessage());
+        }
     }
 }

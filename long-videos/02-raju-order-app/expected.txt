@@ -9,3 +9,5 @@ Delivery: 2 x LARGE Masala = 72.5
 Cash received: 47.25
 UPI paid: 72.5
 Orders today: 2
+Each gets: 2
+Caught: / by zero
