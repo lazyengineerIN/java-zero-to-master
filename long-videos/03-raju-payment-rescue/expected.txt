@@ -1,0 +1,31 @@
+Drawer open
+Drawer closed
+3
+Drawer open
+Bad number: two
+Drawer closed
+0
+Masala 15
+Bank not responding, owed 47.25
+Bank not responding, owed 72.5
+Bank not responding, owed 15.75
+Bank not responding, owed 42.0
+Crash: Index 3 out of bounds for length 3
+Bank not responding, owed 47.25
+Bank not responding, owed 72.5
+Bank not responding, owed 15.75
+Bank not responding, owed 42.0
+Pending: 4
+10 15 22 33 49
+UPI paid: 47.25
+UPI paid: 72.5
+UPI paid: 15.75
+UPI paid: 42.0
+Still pending: 0
+Bills saved: 4
+cash drawer open
+tokens drawer open
+Money goes in cash
+Token goes in tokens
+tokens drawer closed
+cash drawer closed

@@ -21,6 +21,7 @@ Use the file's own name if it isn't `Main.java`. Each folder's `expected.txt` sh
 |---|---|---|
 | Learn Java by Building a Chai Shop App | [ChaiShop.java](long-videos/01-chai-shop/ChaiShop.java) | Topics #1 to #30 |
 | Learn Java OOP: Build a Real Order App | [RajuOrders.java](long-videos/02-raju-order-app/RajuOrders.java) | Topics #31 to #54. Video coming soon |
+| Learn Java Exceptions and ArrayList in 8 Minutes | [RajuPayments.java](long-videos/03-raju-payment-rescue/RajuPayments.java) | Topics #55 to #60. Video coming soon |
 
 ## Shorts
 
