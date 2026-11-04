@@ -65,5 +65,25 @@ Use the file's own name if it isn't `Main.java`. Each folder's `expected.txt` sh
 | 38 | [NullPointerException in Java: Why It Happens + Fix](shorts/038-null) | Soon |
 | 39 | [Class vs Object in Java (Blueprint vs Car)](shorts/039-class-vs-object) | Soon |
 | 40 | [Java Constructor Explained (How Objects Are Born)](shorts/040-constructors) | Soon |
+| 41 | [this Keyword in Java Explained (Which name?)](shorts/041-this) | Soon |
+| 42 | [static Keyword in Java Explained (One Shared Copy)](shorts/042-static) | Soon |
+| 43 | [Encapsulation in Java (Why Fields Are private)](shorts/043-encapsulation) | Soon |
+| 44 | [Inheritance in Java Explained (Stop Copy-Pasting)](shorts/044-inheritance) | Soon |
+| 45 | [super Keyword in Java (Who Gets Built First?)](shorts/045-super) | Soon |
+| 46 | [Polymorphism in Java (Same Call, Different Result)](shorts/046-polymorphism) | Soon |
+| 47 | [Overloading vs Overriding in Java (Interview Fav)](shorts/047-overloading-vs-overriding) | Soon |
+| 48 | [Abstract Class in Java Explained (Can't Create It)](shorts/048-abstract-classes) | Soon |
+| 49 | [Interface in Java Explained (A Contract)](shorts/049-interfaces) | Soon |
+| 50 | [final Keyword in Java (3 Meanings, 1 Word)](shorts/050-final) | Soon |
+| 51 | [Object Class in Java (Every Class's Secret Parent)](shorts/051-object-class) | Soon |
+| 52 | [Java Records Explained (A Whole Class in 1 Line)](shorts/052-records) | Soon |
+| 53 | [Enum in Java Explained (Stop Using Magic Strings)](shorts/053-enums) | Soon |
+| 54 | [What Is an Exception in Java? (Divide by Zero)](shorts/054-exceptions) | Soon |
+| 55 | [try catch finally in Java Explained (Don't Crash)](shorts/055-try-catch-finally) | Soon |
+| 56 | [Checked vs Unchecked Exceptions in Java](shorts/056-checked-vs-unchecked) | Soon |
+| 57 | [throw vs throws in Java (Make Your Own Exception)](shorts/057-throw-vs-throws) | Soon |
+| 58 | [try-with-resources in Java (Auto Close)](shorts/058-try-with-resources) | Soon |
+| 59 | [Why Use Collections in Java? (Arrays Can't Grow)](shorts/059-why-collections) | Soon |
+| 60 | [How ArrayList Grows in Java (What Happens When Full)](shorts/060-arraylist-growth) | Soon |
 
 Stay lazy. Stay curious.
