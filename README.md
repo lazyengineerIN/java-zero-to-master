@@ -55,5 +55,15 @@ Use the file's own name if it isn't `Main.java`. Each folder's `expected.txt` sh
 | 28 | [Java 2D Arrays = Cinema Seats](shorts/028-2d-arrays) | Soon |
 | 29 | [Java for-each Loop (No Index Needed)](shorts/029-for-each) | Soon |
 | 30 | [Stop Sorting Arrays by Hand: Java Arrays Class](shorts/030-the-arrays-toolbox) | Soon |
+| 31 | [Java Methods Explained (Write Once, Call Anywhere)](shorts/031-methods) | Soon |
+| 32 | [Pass by Value in Java: Why It Didn't Change](shorts/032-pass-by-value) | Soon |
+| 33 | [Java Call Stack Explained (Stack of Plates)](shorts/033-the-call-stack) | Soon |
+| 34 | [Recursion in Java Explained (Factorial Example)](shorts/034-recursion) | Soon |
+| 35 | [Method Overloading in Java (Same Name, No Error?)](shorts/035-overloading) | Soon |
+| 36 | [Cannot Find Symbol in Java? Variable Scope Explained](shorts/036-scope) | Soon |
+| 37 | [Stack vs Heap in Java Explained (Pocket vs Locker)](shorts/037-stack-vs-heap) | Soon |
+| 38 | [NullPointerException in Java: Why It Happens + Fix](shorts/038-null) | Soon |
+| 39 | [Class vs Object in Java (Blueprint vs Car)](shorts/039-class-vs-object) | Soon |
+| 40 | [Java Constructor Explained (How Objects Are Born)](shorts/040-constructors) | Soon |
 
 Stay lazy. Stay curious.
