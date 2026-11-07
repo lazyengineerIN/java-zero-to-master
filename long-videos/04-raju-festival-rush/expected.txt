@@ -1,0 +1,38 @@
+== 1 LinkedList ==
+Serving #1 Priya, Ginger x2
+Next up #2 Arun, Lemon x3
+In line: 2
+== 2 ArrayList vs LinkedList ==
+ArrayList jumps to index 499: 1 step
+LinkedList walks to index 499: 499 hops
+== 3 HashMap ==
+Found #742 Kavya, Lemon x2
+742 goes to bucket 6 of 16
+== 4 Collisions ==
+6 -> bucket 6 of 16, 6 of 64
+22 -> bucket 6 of 16, 22 of 64
+742 -> bucket 6 of 16, 38 of 64
+== 5 HashSet ==
+Token 1, Priya: true
+Token 2, Arun: true
+Token 8, Priya: false
+Biscuits given: 2
+== 6 TreeMap ==
+HashMap: {Elaichi=400, Masala=401, Ginger=399, Coffee=399, Lemon=401}
+TreeMap: {Coffee=399, Elaichi=400, Ginger=399, Lemon=401, Masala=401}
+== 7 Iterator ==
+Crash: ConcurrentModificationException
+Still pending: 3
+== 8 Sorting ==
+By token: [301, 302, 303, 304]
+Fewest cups first: [303, 301, 304, 302]
+  #303 Arun, Elaichi x1
+  #301 Kavya, Ginger x2
+  #304 Meena, Coffee x2
+  #302 Priya, Lemon x3
+== 9 Generics ==
+From the tray: #742 Kavya, Lemon x2
+== 10 Big-O ==
+List checks: 742
+TreeMap levels: about 10
+HashMap: 1 bucket, Kavya
