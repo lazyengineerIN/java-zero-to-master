@@ -22,7 +22,7 @@ Use the file's own name if it isn't `Main.java`. Each folder's `expected.txt` sh
 | Learn Java by Building a Chai Shop App | [ChaiShop.java](long-videos/01-chai-shop/ChaiShop.java) | Topics #1 to #30 |
 | Learn Java OOP: Build a Real Order App | [RajuOrders.java](long-videos/02-raju-order-app/RajuOrders.java) | Topics #31 to #54. [Watch](https://youtu.be/HtTApAMzU9o) |
 | Learn Java Exceptions and ArrayList in 8 Minutes | [RajuPayments.java](long-videos/03-raju-payment-rescue/RajuPayments.java) | Topics #55 to #60. [Watch](https://youtu.be/Z4YR6RsSS1g) |
-| Learn Java Collections in 10 Minutes: HashMap, List and Set | [RajuFestival.java](long-videos/04-raju-festival-rush/RajuFestival.java) | Topics #61 to #70. Video coming soon |
+| Learn Java Collections in 10 Minutes: HashMap, List and Set | [RajuFestival.java](long-videos/04-raju-festival-rush/RajuFestival.java) | Topics #61 to #70. [Watch](https://youtu.be/5XqG5tDUAgs) |
 | Learn Java Lambdas and Streams in 10 Minutes (Modern Java) | [RajuMorning.java](long-videos/05-raju-morning-after/RajuMorning.java) | Topics #71 to #78. Video coming soon |
 
 ## Shorts
@@ -55,21 +55,21 @@ Use the file's own name if it isn't `Main.java`. Each folder's `expected.txt` sh
 | 26 | [Why Do Arrays Start at 0?](shorts/026-arrays) | Soon |
 | 27 | [ArrayIndexOutOfBoundsException Explained](shorts/027-out-of-bounds) | Soon |
 | 28 | [Java 2D Arrays = Cinema Seats](shorts/028-2d-arrays) | Soon |
-| 29 | [Java for-each Loop (No Index Needed)](shorts/029-for-each) | Soon |
-| 30 | [Stop Sorting Arrays by Hand: Java Arrays Class](shorts/030-the-arrays-toolbox) | Soon |
-| 31 | [Java Methods Explained (Write Once, Call Anywhere)](shorts/031-methods) | Soon |
-| 32 | [Pass by Value in Java: Why It Didn't Change](shorts/032-pass-by-value) | Soon |
-| 33 | [Java Call Stack Explained (Stack of Plates)](shorts/033-the-call-stack) | Soon |
-| 34 | [Recursion in Java Explained (Factorial Example)](shorts/034-recursion) | Soon |
-| 35 | [Method Overloading in Java (Same Name, No Error?)](shorts/035-overloading) | Soon |
-| 36 | [Cannot Find Symbol in Java? Variable Scope Explained](shorts/036-scope) | Soon |
-| 37 | [Stack vs Heap in Java Explained (Pocket vs Locker)](shorts/037-stack-vs-heap) | Soon |
-| 38 | [NullPointerException in Java: Why It Happens + Fix](shorts/038-null) | Soon |
-| 39 | [Class vs Object in Java (Blueprint vs Car)](shorts/039-class-vs-object) | Soon |
-| 40 | [Java Constructor Explained (How Objects Are Born)](shorts/040-constructors) | Soon |
-| 41 | [this Keyword in Java Explained (Which name?)](shorts/041-this) | Soon |
-| 42 | [static Keyword in Java Explained (One Shared Copy)](shorts/042-static) | Soon |
-| 43 | [Encapsulation in Java (Why Fields Are private)](shorts/043-encapsulation) | Soon |
+| 29 | [Java for-each Loop (No Index Needed)](shorts/029-for-each) | [Watch](https://youtube.com/shorts/g3IIG6xkN48) |
+| 30 | [Stop Sorting Arrays by Hand: Java Arrays Class](shorts/030-the-arrays-toolbox) | [Watch](https://youtube.com/shorts/xoZVx4ysKss) |
+| 31 | [Java Methods Explained (Write Once, Call Anywhere)](shorts/031-methods) | [Watch](https://youtube.com/shorts/-xCl7vY-t5g) |
+| 32 | [Pass by Value in Java: Why It Didn't Change](shorts/032-pass-by-value) | [Watch](https://youtube.com/shorts/91T_GkMSvzQ) |
+| 33 | [Java Call Stack Explained (Stack of Plates)](shorts/033-the-call-stack) | [Watch](https://youtube.com/shorts/QHfBWWJEeyU) |
+| 34 | [Recursion in Java Explained (Factorial Example)](shorts/034-recursion) | [Watch](https://youtube.com/shorts/EzbGzz9-nNg) |
+| 35 | [Method Overloading in Java (Same Name, No Error?)](shorts/035-overloading) | [Watch](https://youtube.com/shorts/W6WQK7WXWuU) |
+| 36 | [Cannot Find Symbol in Java? Variable Scope Explained](shorts/036-scope) | [Watch](https://youtube.com/shorts/Fw-z5s9kkCE) |
+| 37 | [Stack vs Heap in Java Explained (Pocket vs Locker)](shorts/037-stack-vs-heap) | [Watch](https://youtube.com/shorts/COP4j96qbbQ) |
+| 38 | [NullPointerException in Java: Why It Happens + Fix](shorts/038-null) | [Watch](https://youtube.com/shorts/bFiYtqs54JA) |
+| 39 | [Class vs Object in Java (Blueprint vs Car)](shorts/039-class-vs-object) | [Watch](https://youtube.com/shorts/EcoRNmzfq5o) |
+| 40 | [Java Constructor Explained (How Objects Are Born)](shorts/040-constructors) | [Watch](https://youtube.com/shorts/13eY3NMYbwQ) |
+| 41 | [this Keyword in Java Explained (Which name?)](shorts/041-this) | [Watch](https://youtube.com/shorts/Kk95ho4WqLI) |
+| 42 | [static Keyword in Java Explained (One Shared Copy)](shorts/042-static) | [Watch](https://youtube.com/shorts/5rW1OWuRklA) |
+| 43 | [Encapsulation in Java (Why Fields Are private)](shorts/043-encapsulation) | [Watch](https://youtube.com/shorts/4tkNN5UQhTs) |
 | 44 | [Inheritance in Java Explained (Stop Copy-Pasting)](shorts/044-inheritance) | Soon |
 | 45 | [super Keyword in Java (Who Gets Built First?)](shorts/045-super) | Soon |
 | 46 | [Polymorphism in Java (Same Call, Different Result)](shorts/046-polymorphism) | Soon |
