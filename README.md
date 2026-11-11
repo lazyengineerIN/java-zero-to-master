@@ -23,6 +23,7 @@ Use the file's own name if it isn't `Main.java`. Each folder's `expected.txt` sh
 | Learn Java OOP: Build a Real Order App | [RajuOrders.java](long-videos/02-raju-order-app/RajuOrders.java) | Topics #31 to #54. [Watch](https://youtu.be/HtTApAMzU9o) |
 | Learn Java Exceptions and ArrayList in 8 Minutes | [RajuPayments.java](long-videos/03-raju-payment-rescue/RajuPayments.java) | Topics #55 to #60. Video coming soon |
 | Learn Java Collections in 10 Minutes: HashMap, List and Set | [RajuFestival.java](long-videos/04-raju-festival-rush/RajuFestival.java) | Topics #61 to #70. Video coming soon |
+| Learn Java Lambdas and Streams in 10 Minutes (Modern Java) | [RajuMorning.java](long-videos/05-raju-morning-after/RajuMorning.java) | Topics #71 to #78. Video coming soon |
 
 ## Shorts
 

@@ -1,0 +1,43 @@
+Old loop total: 2000
+== 1 Lambdas ==
+Anonymous class: [303, 304, 301, 302]
+Lambda: [303, 304, 301, 302]
+== 2 Functional interfaces ==
+Token 742 big? false
+Token 302 big? true
+Kavya wants Lemon
+NEXT ORDER!
+New tray size: 0
+Cups of 742: 2
+== 3 Streams ==
+Total cups: 2000
+K customers: [KARTHIK, KAVYA]
+  filter #1
+  map #1
+  filter #2
+  map #2
+First two: [Priya, Arun]
+First big coffee: #14 Kavya, Coffee x3
+Orders looked at: 14 of 1000
+== 4 Optional ==
+Kavya first: #7 Kavya, Lemon x2
+Zara present? false
+Zara first: none
+== 5 var ==
+Sales: {Coffee=399, Elaichi=400, Ginger=399, Lemon=401, Masala=401}
+== 6 Text blocks ==
+RAJU CHAI STALL
+Festival day report
+Orders: 1000
+Cups:   2000
+Takings: Rs 30000
+== 7 Pattern matching ==
+instanceof: UPI ref UPI-742
+== 8 Sealed ==
+Cash Rs 45
+UPI Rs 30, ref UPI-742
+Card Rs 15, ending 4821
+Cash in drawer: Rs 45
+== Finale ==
+Cups by customer: {Arun=286, Divya=286, Karthik=285, Kavya=284, Meena=285, Priya=287, Ravi=287}
+Stream total: 2000 (loop said 2000)
