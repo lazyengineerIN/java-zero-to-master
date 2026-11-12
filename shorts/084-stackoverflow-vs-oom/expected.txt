@@ -1,0 +1,2 @@
+Stack full
+Heap full
