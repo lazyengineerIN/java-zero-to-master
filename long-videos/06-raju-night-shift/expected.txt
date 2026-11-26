@@ -1,0 +1,38 @@
+-- 1 Class loading
+Start
+Menu loaded
+Masala
+Masala
+Menu loader: app
+String loader: null
+java.sql loader: platform
+-- 2 Heap generations
+G1 Eden Space
+G1 Old Gen
+G1 Survivor Space
+-- 3 Garbage collection
+Reachable: true
+Collected: true
+Cup pair collected: true
+-- 4 JIT
+Total: 7500000
+HotSpot 64-Bit Tiered Compilers
+JIT worked: true
+-- 5 Memory leaks
+20 MB kept
+0 MB kept
+5 MB kept, oldest: 16
+-- 6 Stack and heap
+Stack full: StackOverflowError
+Heap full: Java heap space
+-- 7 String pool
+false
+true
+true
+false
+true
+-- 8 Stack trace
+For input string: "7a"
+Frames: 5
+Top: java.lang.NumberFormatException.forInputString
+Yours: RajuNight.parseToken(RajuNight.java:41)
